@@ -1,0 +1,3 @@
+# Core PDF processing libraries
+PyMuPDF==1.22.5  # For PDF text extraction and analysis
+tqdm==4.66.1     # For progress bars
